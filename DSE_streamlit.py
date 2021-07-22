@@ -12,7 +12,7 @@ st.header("Streamlit App by Azwin Lam")
 from PIL import Image
 st.image(
     "https://static.reuters.com/resources/r/?m=02&d=20200424&t=2&i=1516278229&r=LYNXNPEG3N08G&w=640",
-    width=400, # Manually Adjust the width of the image as per requirement
+    width=401, # Manually Adjust the width of the image as per requirement
 )
 
 st.subheader("Data")
